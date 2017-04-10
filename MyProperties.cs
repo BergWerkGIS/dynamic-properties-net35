@@ -10,9 +10,9 @@ namespace DynamicPropertiesNet35 {
 
 
 
-	public class MyProperties {
+	public class PropertiesGenerator {
 
-		public MyProperties() {
+		public PropertiesGenerator() {
 			_propertiesToCreate = new Dictionary<string, Type>();
 		}
 
